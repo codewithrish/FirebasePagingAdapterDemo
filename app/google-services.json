@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002691889276",
+    "firebase_url": "https://fir-pagingadapterdemo.firebaseio.com",
+    "project_id": "fir-pagingadapterdemo",
+    "storage_bucket": "fir-pagingadapterdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002691889276:android:d9f63a0710c4a0e3",
+        "android_client_info": {
+          "package_name": "com.collegediary.firebasepagingadapterdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002691889276-ob03ecqd918j7panr7k430tt3hca5n5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.collegediary.firebasepagingadapterdemo",
+            "certificate_hash": "799e9dc653e16788ac7bbb50718ca80a7c36f4ac"
+          }
+        },
+        {
+          "client_id": "1002691889276-0dm5t2dnttq3ujfp66s20hsu8ha9ahkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZzMyLMT0sskoe0U7tmrz4xPUqhP8hoQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002691889276-0dm5t2dnttq3ujfp66s20hsu8ha9ahkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
